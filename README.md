@@ -1,5 +1,6 @@
 
 # Kubernetes Project.
+<img src="banner.png">
 The repository contains the implementation of Restful api implemented in 
 Node.js using express framework. The Api is converted into the docker image. Furthermore, the implementation 
 details are mentioned in the Dockerfile file.
