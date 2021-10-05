@@ -4,9 +4,11 @@
 The repository contains the implementation of Restful api implemented in 
 Node.js using express framework. The Api is converted into the docker image. Furthermore, the implementation 
 details are mentioned in the Dockerfile file.
+
 ## Navigating to the docker Image.
 The docker image was hosted to the hub.docker.com and can be found at 
 https://hub.docker.com/repository/docker/sareenv/test-repo. <br />
+
 ## Running docker container
 <b> Assumption:</b> Docker must be installed in your system to run the containers!
 There are following steps to run the project as docker container in your system.
